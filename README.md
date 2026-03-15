@@ -2,6 +2,8 @@
 
 A simple web app to help create embroidery designs from images. Upload an image, resize it, reduce the color palette, and download the result.
 
+To use it in your browser now, visit [https://colomax.github.io/embroidery-designer/](https://colomax.github.io/embroidery-designer/)
+
 ## Features
 
 - Upload images
